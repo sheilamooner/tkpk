@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Home Page -->
+  <url>
+    <loc>https://tokenpocket-wallet.pro/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://tokenpocket-wallet.pro/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://tokenpocket-wallet.pro/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tokenpocket-wallet.pro/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tokenpocket-wallet.pro/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tokenpocket-wallet.pro/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tokenpocket-wallet.pro"/>
+    <image:image>
+      <image:loc>https://tokenpocket-wallet.pro/assets/hero.png</image:loc>
+      <image:title>TokenPocket Wallet</image:title>
+      <image:caption>TokenPocket - Secure Multi-Chain Cryptocurrency Wallet</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Download Page -->
+  <url>
+    <loc>https://tokenpocket-wallet.pro/download</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://tokenpocket-wallet.pro/download?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://tokenpocket-wallet.pro/download?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tokenpocket-wallet.pro/download?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tokenpocket-wallet.pro/download?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tokenpocket-wallet.pro/download?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tokenpocket-wallet.pro/download"/>
+  </url>
+  
+  <!-- Import Wallet Page -->
+  <url>
+    <loc>https://tokenpocket-wallet.pro/import-wallet</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://tokenpocket-wallet.pro/import-wallet?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://tokenpocket-wallet.pro/import-wallet?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tokenpocket-wallet.pro/import-wallet?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tokenpocket-wallet.pro/import-wallet"/>
+  </url>
+
+</urlset>
