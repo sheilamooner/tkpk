@@ -4,6 +4,8 @@ Allow: /
 Allow: /download
 Allow: /import-wallet
 Disallow: /popup
+Disallow: /api/
+Disallow: /admin/
 
 # Crawl-delay for specific bots
 User-agent: Googlebot
@@ -12,5 +14,11 @@ Crawl-delay: 0
 User-agent: Bingbot
 Crawl-delay: 0
 
+User-agent: Baiduspider
+Crawl-delay: 1
+
+User-agent: Yandex
+Crawl-delay: 1
+
 # Sitemap location
-Sitemap: https://tokenpocket-wallet.pro/sitemap.xml
+Sitemap: https://tp-wallet.top/sitemap.xml

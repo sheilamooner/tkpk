@@ -13,4 +13,4 @@ User-agent: Bingbot
 Crawl-delay: 0
 
 # Sitemap location
-Sitemap: https://tokenpocket-wallet.pro/sitemap.xml
+Sitemap: https://tp-wallet.top/sitemap.xml
